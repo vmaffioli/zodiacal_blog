@@ -1,5 +1,5 @@
 # mywebsite
-My boilerplate to easily build a website with NodeJs and ReactJs
+My boilerplate to easily build a complete website with NodeJs and ReactJs
 
 ### Contains:
 - Back end
@@ -9,8 +9,12 @@ My boilerplate to easily build a website with NodeJs and ReactJs
 - Styled-Components
 - Reactstrap
 - Change color theme (style variables)
-- React Router
+- React Hash Router
 - Server Router
 - Dependencies
 - DevDependencies
+- proxy build
+- Concurrently
+- Nodemon
+
 
