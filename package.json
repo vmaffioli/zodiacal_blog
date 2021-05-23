@@ -1,0 +1,28 @@
+{
+  "name": "vmaffioliwebsite",
+  "version": "1.0.0",
+  "description": "VMaffioli Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmaffioli/mywebsite.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "website",
+    "site",
+    "profile",
+    "portfolio",
+    "bootstrap"
+  ],
+  "author": "vmaffioli <vinimaffioli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmaffioli/mywebsite/issues"
+  },
+  "homepage": "https://github.com/vmaffioli/mywebsite#readme"
+}
