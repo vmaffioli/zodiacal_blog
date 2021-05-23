@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 
 import Home from './Pages/Home';
 import GlobalStyles from './Components/Styles/Global';
@@ -7,10 +8,11 @@ import GlobalStyles from './Components/Styles/Global';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+
+  <Router>
     <GlobalStyles />
-    <Home />
-  </React.StrictMode>,
+    <Route exact path="/" component={Home} />
+  </Router>,
   document.getElementById('root')
 );
 

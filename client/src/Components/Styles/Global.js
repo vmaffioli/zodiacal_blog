@@ -18,7 +18,18 @@ const Global = createGlobalStyle`
       sans-serif;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-}
+      background-color: var(--BG2);
+      height: 100vh;
+      width: 100vw;
+  }
+
+  h1, h2, h3 {
+        color: var(--T1);
+  }
+
+  p {
+        color: var(--P1);
+    }
 `;
 
 export default Global;

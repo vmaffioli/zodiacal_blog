@@ -1,0 +1,7 @@
+{
+    "Banner" : {
+        "title000": "Hello World!",
+        "text000" : "Boilerplate of a Node.js Server with React.js Client",
+        "text001" : "https://github.com/vmaffioli/mywebsite.git"
+    }
+}

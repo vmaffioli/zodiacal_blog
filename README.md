@@ -2,11 +2,15 @@
 My boilerplate to easily build a website with NodeJs and ReactJs
 
 ### Contains:
-- Back and Front
+- Back end
+- Front end
 - Express
 - API (providing and consuming)
 - Styled-Components
 - Reactstrap
+- Change color theme (style variables)
+- React Router
+- Server Router
+- Dependencies
+- DevDependencies
 
-### Palette of colors
-https://www.colourlovers.com/palette/4464460/Arrested_Development

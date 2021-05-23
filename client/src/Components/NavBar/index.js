@@ -1,11 +1,5 @@
 import { Nav, NavItem, NavLink } from 'reactstrap';
 
-const navLinks = [
-    ['#', 'Link1'],
-    ['#', 'Link2'],
-    ['#', 'Link3'],
-    ['#', 'Link4']
-]
 
 export default function NavBar() {
 

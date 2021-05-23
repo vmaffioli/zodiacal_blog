@@ -13,6 +13,7 @@ const LightTheme = createGlobalStyle`
         --E2: var(--ROOT4);
   
 }
+
 `;
 
 export default LightTheme;
